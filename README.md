@@ -1,4 +1,4 @@
-# Old Projects: Statistical Inference and Regression in R
+## Old Projects: Statistical Inference and Regression in R
 
 This repository contains archived coursework projects originally completed in **2017** as part of the Johns Hopkins *Data Science Specialization (Coursera)*.  
 These early exercises illustrate foundational concepts in **simulation, inference, and regression** using the R programming language.  
