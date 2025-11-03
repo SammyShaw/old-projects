@@ -6,7 +6,7 @@ They are preserved for reference but are **not part of my current professional d
 
 ---
 
-## Contents
+### Contents
 
 ### 1. Statistical Inference, Part I — Simulation
 
@@ -49,7 +49,7 @@ They are preserved for reference but are **not part of my current professional d
 
 ---
 
-## Tools and Environment
+### Tools and Environment
 
 - **Language:** R  
 - **Core Packages:** `datasets`, `knitr`, `stats`, base R plotting  
@@ -58,7 +58,7 @@ They are preserved for reference but are **not part of my current professional d
 
 ---
 
-## Author
+### Author
 
 **Samuel Shaw, PhD**  
 Sociologist & Data Scientist  
